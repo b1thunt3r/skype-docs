@@ -129,7 +129,7 @@ grant_type=urn:microsoft.rtc:anonmeeting&amp;password=G03W98W4&amp;ms_rtc_confer
 
 The Anonymous meeting attendee grant type uses two extension parameters: password and ms_rtc_conferenceuri. The password is the conference key.
 
-The format of the ms_rtc_conferenceuri parameter is:<Organizer SIP URI>; gruu;opaque=app:conf:focus:id:<Conference ID>.
+The format of the ms_rtc_conferenceuri parameter is: &lt;Organizer SIP URI&gt;; gruu;opaque=app:conf:focus:id:&lt;Conference ID&gt;.
 
  **Response**
 
